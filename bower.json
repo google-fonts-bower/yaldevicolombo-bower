@@ -1,0 +1,17 @@
+{
+    "name": "yaldevicolombo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Mooniak"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/yaldevicolombo-bower.git"
+    },
+    "description": "Yaldevi Colombo font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
